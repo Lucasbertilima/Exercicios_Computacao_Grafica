@@ -1,4 +1,8 @@
 import java.util.Scanner;
+
+/**
+ * Temperatura
+ */
 public class Algoritmo4
 {
 	public static void main(String[] args) {
